@@ -1,0 +1,154 @@
+Entity,Code_x,Year_x,Share of deaths,"Region, subregion, country or area",PercentageUrban,2019_qcut,Code_y,Year_y,"GDP per capita (output, multiple price benchmarks)",GDP Categories
+Albania,ALB,2019,9.543016,Albania,61.2,medium-low,ALB,2019,12531.788,medium GDP
+Algeria,DZA,2019,10.728213,Algeria,73.2,medium-high,DZA,2019,11787.492,medium GDP
+Angola,AGO,2019,9.524946,Angola,66.2,medium-high,AGO,2019,7159.579,low GDP
+Argentina,ARG,2019,3.9129262,Argentina,92.0,high,ARG,2019,21826.838,medium GDP
+Armenia,ARM,2019,11.371826,Armenia,63.2,medium-high,ARM,2019,14735.138,medium GDP
+Australia,AUS,2019,1.1128302,Australia,86.1,high,AUS,2019,54147.008,high GDP
+Austria,AUT,2019,3.2155223,Austria,58.5,medium-low,AUT,2019,53344.508,high GDP
+Azerbaijan,AZE,2019,10.869016,Azerbaijan,56.0,medium-low,AZE,2019,15858.924,medium GDP
+Bahamas,BHS,2019,3.7098455,Bahamas,83.1,high,BHS,2019,33088.543,high GDP
+Bahrain,BHR,2019,14.672168,Bahrain,89.4,high,BHR,2019,46964.977,high GDP
+Bangladesh,BGD,2019,20.328232,Bangladesh,37.4,low,BGD,2019,4658.01,low GDP
+Barbados,BRB,2019,5.460702,Barbados,31.2,low,BRB,2019,12217.291,medium GDP
+Belarus,BLR,2019,6.77795,Belarus,79.0,medium-high,BLR,2019,21665.938,medium GDP
+Belgium,BEL,2019,3.3124945,Belgium,98.0,high,BEL,2019,44839.68,high GDP
+Belize,BLZ,2019,6.7917266,Belize,45.9,medium-low,BLZ,2019,5602.4204,low GDP
+Benin,BEN,2019,15.1682005,Benin,47.9,medium-low,BEN,2019,3245.0645,low GDP
+Bermuda,BMU,2019,1.6331385,Bermuda,100.0,high,BMU,2019,51003.266,high GDP
+Bhutan,BTN,2019,16.152782,Bhutan,41.6,low,BTN,2019,11778.3955,medium GDP
+Bosnia and Herzegovina,BIH,2019,12.3605795,Bosnia and Herzegovina,48.6,medium-low,BIH,2019,13795.342,medium GDP
+Botswana,BWA,2019,8.91193,Botswana,70.2,medium-high,BWA,2019,16484.375,medium GDP
+Brazil,BRA,2019,4.276102,Brazil,86.8,high,BRA,2019,14593.961,medium GDP
+Bulgaria,BGR,2019,8.5033045,Bulgaria,75.3,medium-high,BGR,2019,21347.125,medium GDP
+Burkina Faso,BFA,2019,15.18908,Burkina Faso,30.0,low,BFA,2019,2120.1392,low GDP
+Burundi,BDI,2019,16.005333,Burundi,13.4,low,BDI,2019,790.046,low GDP
+Cambodia,KHM,2019,16.547619,Cambodia,23.8,low,KHM,2019,4500.0527,low GDP
+Cameroon,CMR,2019,12.741659,Cameroon,57.0,medium-low,CMR,2019,3651.4968,low GDP
+Canada,CAN,2019,1.4996628,Canada,81.5,high,CAN,2019,49884.055,high GDP
+Central African Republic,CAF,2019,13.727325,Central African Republic,41.8,low,CAF,2019,978.34937,low GDP
+Chad,TCD,2019,16.061754,Chad,23.3,low,TCD,2019,1615.0825,low GDP
+Chile,CHL,2019,5.413514,Chile,87.6,high,CHL,2019,23252.557,medium GDP
+China,CHN,2019,16.696108,China,60.3,medium-low,CHN,2019,14128.812,medium GDP
+Colombia,COL,2019,6.318576,Colombia,81.1,high,COL,2019,14057.756,medium GDP
+Comoros,COM,2019,13.222562,Comoros,29.2,low,COM,2019,3208.8936,low GDP
+Congo,COG,2019,11.329252,Congo,67.4,medium-high,COG,2019,4657.116,low GDP
+Costa Rica,CRI,2019,4.38254,Costa Rica,80.1,medium-high,CRI,2019,18522.178,medium GDP
+Croatia,HRV,2019,6.2461486,Croatia,57.2,medium-low,HRV,2019,26001.002,high GDP
+Cyprus,CYP,2019,5.0202208,Cyprus,66.8,medium-high,CYP,2019,32301.82,high GDP
+Czechia,CZE,2019,5.6198144,Czechia,73.9,medium-high,CZE,2019,37521.227,high GDP
+Denmark,DNK,2019,2.5983975,Denmark,88.0,high,DNK,2019,54027.15,high GDP
+Djibouti,DJI,2019,9.8612,Djibouti,77.9,medium-high,DJI,2019,6132.4233,low GDP
+Dominica,DMA,2019,4.90055,Dominica,70.8,medium-high,DMA,2019,10327.737,medium GDP
+Dominican Republic,DOM,2019,6.796193,Dominican Republic,81.8,high,DOM,2019,17926.738,medium GDP
+Ecuador,ECU,2019,5.2422624,Ecuador,64.0,medium-high,ECU,2019,11235.628,medium GDP
+Egypt,EGY,2019,15.600813,Egypt,42.7,low,EGY,2019,12059.8955,medium GDP
+El Salvador,SLV,2019,6.478802,El Salvador,72.7,medium-high,SLV,2019,8116.269,low GDP
+Equatorial Guinea,GNQ,2019,8.681862,Equatorial Guinea,72.6,medium-high,GNQ,2019,24712.76,medium GDP
+Estonia,EST,2019,1.2464755,Estonia,69.1,medium-high,EST,2019,33852.387,high GDP
+Ethiopia,ETH,2019,15.057564,Ethiopia,21.2,low,ETH,2019,2720.7412,low GDP
+Fiji,FJI,2019,8.0805855,Fiji,56.8,medium-low,FJI,2019,13753.734,medium GDP
+Finland,FIN,2019,0.73263884,Finland,85.4,high,FIN,2019,44928.516,high GDP
+France,FRA,2019,2.411587,France,80.7,high,FRA,2019,43755.062,high GDP
+Gabon,GAB,2019,8.373673,Gabon,89.7,high,GAB,2019,15492.227,medium GDP
+Gambia,GMB,2019,16.4783,Gambia,61.9,medium-low,GMB,2019,2408.8591,low GDP
+Georgia,GEO,2019,9.599961,Georgia,59.0,medium-low,GEO,2019,17055.666,medium GDP
+Germany,DEU,2019,3.0334759,Germany,77.4,medium-high,DEU,2019,51190.89,high GDP
+Ghana,GHA,2019,13.248942,Ghana,56.7,medium-low,GHA,2019,5363.2695,low GDP
+Greece,GRC,2019,4.890207,Greece,79.4,medium-high,GRC,2019,27201.492,high GDP
+Grenada,GRD,2019,6.479728,Grenada,36.4,low,GRD,2019,15374.282,medium GDP
+Guatemala,GTM,2019,10.376927,Guatemala,51.4,medium-low,GTM,2019,7769.828,low GDP
+Guinea,GIN,2019,16.024248,Guinea,36.5,low,GIN,2019,2286.8052,low GDP
+Guinea-Bissau,GNB,2019,16.432236,Guinea-Bissau,43.8,medium-low,GNB,2019,1850.2985,low GDP
+Guyana,GUY,2019,7.0495276,Guyana,26.7,low,GUY,2019,13010.421,medium GDP
+Haiti,HTI,2019,15.827504,Haiti,56.2,medium-low,HTI,2019,1554.0212,low GDP
+Honduras,HND,2019,11.507948,Honduras,57.7,medium-low,HND,2019,5428.0635,low GDP
+Hungary,HUN,2019,6.5540886,Hungary,71.6,medium-high,HUN,2019,29236.4,high GDP
+Iceland,ISL,2019,0.90118796,Iceland,93.9,high,ISL,2019,53011.742,high GDP
+India,IND,2019,18.097055,India,34.5,low,IND,2019,6711.385,low GDP
+Indonesia,IDN,2019,10.366579,Indonesia,56.0,medium-low,IDN,2019,11595.102,medium GDP
+Iraq,IRQ,2019,14.995286,Iraq,70.7,medium-high,IRQ,2019,11920.252,medium GDP
+Ireland,IRL,2019,1.6819842,Ireland,63.4,medium-high,IRL,2019,102622.45,high GDP
+Israel,ISR,2019,5.124964,Israel,92.5,high,ISR,2019,38562.625,high GDP
+Italy,ITA,2019,4.2661047,Italy,70.7,medium-high,ITA,2019,40732.03,high GDP
+Jamaica,JAM,2019,6.016723,Jamaica,56.0,medium-low,JAM,2019,8434.522,medium GDP
+Japan,JPN,2019,3.060241,Japan,91.7,high,JPN,2019,39704.234,high GDP
+Jordan,JOR,2019,9.813195,Jordan,91.2,high,JOR,2019,10789.006,medium GDP
+Kazakhstan,KAZ,2019,8.671333,Kazakhstan,57.5,medium-low,KAZ,2019,28306.396,high GDP
+Kenya,KEN,2019,10.926474,Kenya,27.5,low,KEN,2019,4236.668,low GDP
+Kuwait,KWT,2019,14.88958,Kuwait,100.0,high,KWT,2019,62054.52,high GDP
+Kyrgyzstan,KGZ,2019,12.572305,Kyrgyzstan,36.6,low,KGZ,2019,6135.855,low GDP
+Latvia,LVA,2019,4.239611,Latvia,68.2,medium-high,LVA,2019,29411.12,high GDP
+Lebanon,LBN,2019,9.842846,Lebanon,88.8,high,LBN,2019,14749.867,medium GDP
+Lesotho,LSO,2019,9.102214,Lesotho,28.6,low,LSO,2019,2694.87,low GDP
+Liberia,LBR,2019,13.6198635,Liberia,51.6,medium-low,LBR,2019,1258.1931,low GDP
+Lithuania,LTU,2019,3.2779295,Lithuania,67.9,medium-high,LTU,2019,32483.44,high GDP
+Luxembourg,LUX,2019,2.4599354,Luxembourg,91.2,high,LUX,2019,90479.41,high GDP
+Madagascar,MDG,2019,16.664843,Madagascar,37.9,low,MDG,2019,1539.063,low GDP
+Malawi,MWI,2019,13.109669,Malawi,17.2,low,MWI,2019,1161.3806,low GDP
+Malaysia,MYS,2019,6.1238647,Malaysia,76.6,medium-high,MYS,2019,25735.309,medium GDP
+Maldives,MDV,2019,5.5576234,Maldives,40.2,low,MDV,2019,19411.275,medium GDP
+Mali,MLI,2019,14.176149,Mali,43.1,medium-low,MLI,2019,2446.2075,low GDP
+Malta,MLT,2019,4.1736517,Malta,94.7,high,MLT,2019,38910.08,high GDP
+Mauritania,MRT,2019,13.30946,Mauritania,54.5,medium-low,MRT,2019,4676.1816,low GDP
+Mauritius,MUS,2019,5.5777016,Mauritius,40.8,low,MUS,2019,23437.75,medium GDP
+Mexico,MEX,2019,6.6507077,Mexico,80.4,medium-high,MEX,2019,18736.527,medium GDP
+Mongolia,MNG,2019,13.067182,Mongolia,68.5,medium-high,MNG,2019,11900.283,medium GDP
+Montenegro,MNE,2019,10.334127,Montenegro,67.2,medium-high,MNE,2019,21849.92,medium GDP
+Morocco,MAR,2019,12.381488,Morocco,63.0,medium-low,MAR,2019,7923.9307,low GDP
+Mozambique,MOZ,2019,12.583029,Mozambique,36.5,low,MOZ,2019,1228.8705,low GDP
+Myanmar,MMR,2019,18.156124,Myanmar,30.9,low,MMR,2019,5153.375,low GDP
+Namibia,NAM,2019,9.470348,Namibia,51.0,medium-low,NAM,2019,9353.127,medium GDP
+Nepal,NPL,2019,23.133001,Nepal,20.2,low,NPL,2019,3631.0178,low GDP
+Netherlands,NLD,2019,3.1293,Netherlands,91.9,high,NLD,2019,55569.44,high GDP
+New Zealand,NZL,2019,0.9660047,New Zealand,86.6,high,NZL,2019,41522.477,high GDP
+Nicaragua,NIC,2019,9.967102,Nicaragua,58.8,medium-low,NIC,2019,5024.2754,low GDP
+Niger,NER,2019,17.699299,Niger,16.5,low,NER,2019,1210.8782,low GDP
+Nigeria,NGA,2019,12.561923,Nigeria,51.2,medium-low,NGA,2019,4983.6753,low GDP
+Norway,NOR,2019,1.1047429,Norway,82.6,high,NOR,2019,73668.79,high GDP
+Oman,OMN,2019,14.158104,Oman,85.4,high,OMN,2019,30723.287,high GDP
+Pakistan,PAK,2019,16.882307,Pakistan,36.9,low,PAK,2019,5026.2085,low GDP
+Panama,PAN,2019,4.181566,Panama,68.1,medium-high,PAN,2019,29879.904,high GDP
+Paraguay,PRY,2019,6.9120026,Paraguay,61.9,medium-low,PRY,2019,12319.808,medium GDP
+Peru,PER,2019,7.5373335,Peru,78.1,medium-high,PER,2019,12236.712,medium GDP
+Philippines,PHL,2019,12.095477,Philippines,47.1,medium-low,PHL,2019,8448.533,medium GDP
+Poland,POL,2019,7.4299574,Poland,60.0,medium-low,POL,2019,31985.158,high GDP
+Portugal,PRT,2019,2.003581,Portugal,65.8,medium-high,PRT,2019,31796.8,high GDP
+Qatar,QAT,2019,14.967405,Qatar,99.2,high,QAT,2019,114100.81,high GDP
+Romania,ROU,2019,6.3162856,Romania,54.1,medium-low,ROU,2019,27888.36,high GDP
+Rwanda,RWA,2019,15.072112,Rwanda,17.3,low,RWA,2019,2279.5068,low GDP
+Saint Kitts and Nevis,KNA,2019,2.3217382,Saint Kitts and Nevis,30.8,low,KNA,2019,22938.94,medium GDP
+Saint Lucia,LCA,2019,5.9146013,Saint Lucia,18.8,low,LCA,2019,14237.587,medium GDP
+Saint Vincent and the Grenadines,VCT,2019,6.2914705,Saint Vincent and the Grenadines,52.6,medium-low,VCT,2019,11101.596,medium GDP
+Sao Tome and Principe,STP,2019,14.900057,Sao Tome and Principe,73.6,medium-high,STP,2019,3784.7568,low GDP
+Saudi Arabia,SAU,2019,14.74984,Saudi Arabia,84.1,high,SAU,2019,51824.88,high GDP
+Senegal,SEN,2019,14.765963,Senegal,47.7,medium-low,SEN,2019,3247.833,low GDP
+Serbia,SRB,2019,10.14162,Serbia,56.3,medium-low,SRB,2019,17220.316,medium GDP
+Seychelles,SYC,2019,4.411889,Seychelles,57.1,medium-low,SYC,2019,27783.162,high GDP
+Sierra Leone,SLE,2019,15.469969,Sierra Leone,42.5,low,SLE,2019,1875.1897,low GDP
+Singapore,SGP,2019,5.8047347,Singapore,100.0,high,SGP,2019,82336.34,high GDP
+Slovakia,SVK,2019,6.3187532,Slovakia,53.7,medium-low,SVK,2019,27473.168,high GDP
+Slovenia,SVN,2019,4.443596,Slovenia,54.8,medium-low,SVN,2019,34093.465,high GDP
+South Africa,ZAF,2019,6.4122596,South Africa,66.9,medium-high,ZAF,2019,12536.135,medium GDP
+Spain,ESP,2019,2.6873534,Spain,80.6,medium-high,ESP,2019,40366.4,high GDP
+Sri Lanka,LKA,2019,10.097352,Sri Lanka,18.6,low,LKA,2019,13290.122,medium GDP
+Sudan,SDN,2019,15.9512205,Sudan,34.9,low,SDN,2019,4230.835,low GDP
+Suriname,SUR,2019,6.8907795,Suriname,66.1,medium-high,SUR,2019,14480.707,medium GDP
+Sweden,SWE,2019,0.81253004,Sweden,87.7,high,SWE,2019,52433.336,high GDP
+Switzerland,CHE,2019,2.3141341,Switzerland,73.8,medium-high,CHE,2019,75298.82,high GDP
+Tajikistan,TJK,2019,15.940316,Tajikistan,27.3,low,TJK,2019,3893.754,low GDP
+Thailand,THA,2019,7.889034,Thailand,50.7,medium-low,THA,2019,17116.309,medium GDP
+Togo,TGO,2019,14.80089,Togo,42.2,low,TGO,2019,2235.2266,low GDP
+Trinidad and Tobago,TTO,2019,7.2388487,Trinidad and Tobago,53.2,medium-low,TTO,2019,28643.447,high GDP
+Tunisia,TUN,2019,10.716591,Tunisia,69.3,medium-high,TUN,2019,11090.384,medium GDP
+Turkey,TUR,2019,9.451574,Turkey,75.6,medium-high,TUR,2019,26947.576,high GDP
+Turkmenistan,TKM,2019,10.861875,Turkmenistan,52.0,medium-low,TKM,2019,26026.03,high GDP
+Uganda,UGA,2019,13.576797,Uganda,24.4,low,UGA,2019,2092.1492,low GDP
+Ukraine,UKR,2019,6.168804,Ukraine,69.5,medium-high,UKR,2019,13144.867,medium GDP
+United Arab Emirates,ARE,2019,12.422841,United Arab Emirates,86.8,high,ARE,2019,66112.72,high GDP
+United Kingdom,GBR,2019,2.4022942,United Kingdom,83.7,high,GBR,2019,44274.957,high GDP
+United States,USA,2019,1.9975044,United States,82.5,high,USA,2019,62589.0,high GDP
+Uruguay,URY,2019,2.409878,Uruguay,95.4,high,URY,2019,20545.422,medium GDP
+Yemen,YEM,2019,14.387698,Yemen,37.3,low,YEM,2019,1777.2511,low GDP
+Zambia,ZMB,2019,11.249609,Zambia,44.1,medium-low,ZMB,2019,3179.1958,low GDP
+Zimbabwe,ZWE,2019,10.997446,Zimbabwe,32.2,low,ZWE,2019,2787.659,low GDP
